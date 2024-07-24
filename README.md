@@ -2,7 +2,7 @@
 
 ### Cursando para Dev Full Stack Java! 🎓
 
-[![Biel GitHub stats](https://github-readme-stats.vercel.app/api?username=BielDEVs)](https://github.com/BielDEVs/github-readme-stats)
+[![Biel GitHub stats](https://github-readme-stats.vercel.app/api?username=BielDEVs&show_icons=true&theme=dark)](https://github.com/BielDEVs/github-readme-stats)
 
 
 
